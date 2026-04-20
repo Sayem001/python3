@@ -20,3 +20,6 @@ public class Task2 {
         System.out.println("Impact: " + impact);
     }
 }
+
+//Combined digits: 4
+//Impact: 3
